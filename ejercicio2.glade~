@@ -7,6 +7,7 @@
     <property name="title" translatable="yes">Ejercicio 2</property>
     <property name="resizable">False</property>
     <property name="window_position">center</property>
+    <property name="icon">./iconos/kuser.png</property>
     <signal name="delete_event" handler="on_window1_delete_event"/>
     <child>
       <widget class="GtkVBox" id="vbox1">
