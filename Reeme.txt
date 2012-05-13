@@ -1,0 +1,6 @@
+Para ejecutar el ejercicio, debemos crear la base de datos en mysql, una vez indentificados introducimos el fichero basededatos.sql, esto no creara la base de datos.
+
+Después debemos rellenar la base de datos para ello:
+	$ python intertar.py
+Y por último ejecutamos mediante python el ejercicio:
+	$ python ejercicio2.py
