@@ -2,5 +2,5 @@ Para ejecutar el ejercicio, debemos crear la base de datos en mysql, una vez ind
 
 Después debemos rellenar la base de datos para ello:
 	$ python intertar.py
-Y por último ejecutamos el ejercicio mediante python:
+Y por último ejecutamos mediante python el ejercicio:
 	$ python ejercicio2.py
